@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+torch
+scikit-learn==1.6.1
+joblib
+numpy
+pydantic>=2.12.0
